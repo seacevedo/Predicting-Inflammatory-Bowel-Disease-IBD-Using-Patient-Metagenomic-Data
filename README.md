@@ -11,3 +11,5 @@ Species diversity is the number of species that are represented in a community. 
 In the figure below, we can see a visualization of these two concepts. An environment is represented by a circle, which contains a unique combination of species, each with its alpha diversity, represented by the number of unique species in that environment. The beta diversity describes the number of species that differ between each environment.
 
 ![alt text](https://github.com/seacevedo/Predicting-Inflammatory-Bowel-Disease-IBD-Using-Patient-Metagenomic-Data/blob/main/ibd_ml/diversity.gif)
+
+In this analysis, we will employ commonly used metrics to estimate species diversity as features for our machine learning algorithms.
