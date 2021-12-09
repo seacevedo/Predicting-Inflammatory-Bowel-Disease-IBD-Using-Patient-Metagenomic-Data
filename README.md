@@ -1,5 +1,5 @@
 # Predicting-Inflammatory-Bowel-Disease-IBD-Using-Patient-Metagenomic-Data
-Using microbial diversity metrics, we build a classifier to predict whether or not a patient has IBD. To do this we, considered the species diversity in the gut of several patients.
+Using microbial diversity metrics, we build a classifier to predict whether or not a patient has IBD. To do this, we considered the species diversity in the gut of several patients.
 
 Species diversity is the number of species that are represented in a community. In the case of the microbiome, it the number of different microbes that we find in individual(s). By understanding the taxonomic composition of metagenomes, we can analyze the diversity of different environments; in this case we can compare the gut microbiota of patients with and without IBD. Species diversity can be described by two measures:
 
